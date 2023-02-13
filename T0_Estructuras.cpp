@@ -92,7 +92,7 @@ int main()
 
             break;
         case 1:
-            // Llamada a función para imprimir
+            // Llamada a funciÃ³n para imprimir
             if(entro==false)
                 cout<<"No se han ingresando datos. Seleccione la opcion '0' para ingresar datos.";
             else
@@ -156,7 +156,7 @@ int main()
             break;
 
         default:
-            cout<< "\n Opción invalida ingrese un numero de 0 a 6"<< endl;
+            cout<< "\n OpciÃ³n invalida ingrese un numero de 0 a 6"<< endl;
 
             break;
         }
