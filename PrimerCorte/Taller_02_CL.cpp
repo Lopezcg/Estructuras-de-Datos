@@ -49,7 +49,7 @@ int main()
         cout<<"2.Dado un autor, listar todas sus canciones ordenadas alfabeticamente."<<endl;
         cout<<"3.Listar todos los albumes presentes, ordenados cronologicamente. " <<endl;
         cout<<"4.Dado un album, listar todas las canciones que componen un album, ordenadas alfabeticamente por el nombre de la cancion."<<endl;
-        cout<<"5.Listar todas las canciones y su album, ordenadas alfabeticamente primero por el album y después por el nombre de la cancion."<<endl;
+        cout<<"5.Listar todas las canciones y su album, ordenadas alfabeticamente primero por el album y despuÃ©s por el nombre de la cancion."<<endl;
         cout<<"6.salir"<<endl;
         cin>>opcion;
         switch (opcion)
